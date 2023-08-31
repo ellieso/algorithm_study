@@ -13,5 +13,5 @@
 - Programmers/폴더명/문제명.py
 
 ### 백준
-- Baekjoon/폴더명/문제번호_문제명.py
+- Baekjoon/문제단계/문제번호_문제명.py
 
