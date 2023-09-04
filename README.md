@@ -12,6 +12,8 @@
 |구현    |스위치 켜고 끄기|실버4|2023년 9월 1일 |https://www.acmicpc.net/problem/1244|★★★★★|
 |스택/큐 |좋은 단어       |실버4|2023년 9월 2일 |https://www.acmicpc.net/problem/3986|★★      |
 |자료구조|암기왕          |실버4|2023년 9월 2일 |https://www.acmicpc.net/problem/2776|★        |
+|그리디  |피자            |실버4|2023년 9월 4일 |https://www.acmicpc.net/problem/3213|★★★★★|
+
 
 ## 파일 및 폴더 구조
 ### 프로그래머스
