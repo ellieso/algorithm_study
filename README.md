@@ -16,6 +16,7 @@
 |구현    |개미              |실버4|2023년 9월 4일 |https://www.acmicpc.net/problem/3048|★★★★  |
 |정렬    |주몽              |실버4|2023년 9월 5일 |https://www.acmicpc.net/problem/1940|★★      |
 |자료구조|인사성 밝은 곰곰이|실버4|2023년 9월 5일 |https://www.acmicpc.net/problem/25192|★★      |
+|자료구조|비밀번호 찾기     |실버4|2023년 9월 6일 |https://www.acmicpc.net/problem/17219|★        |
 
 ## 파일 및 폴더 구조
 ### 프로그래머스
