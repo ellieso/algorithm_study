@@ -19,6 +19,7 @@
 |자료구조|비밀번호 찾기     |실버4|2023년 9월 6일 |https://www.acmicpc.net/problem/17219|★        |
 |수학    |가로수            |실버4|2023년 9월 6일 |https://www.acmicpc.net/problem/2485 |★★      |
 |정렬    |국영수            |실버4|2023년 9월 7일 |https://www.acmicpc.net/problem/10825|★★      |
+|정렬    |등수구하기        |실버4|2023년 9월 7일 |https://www.acmicpc.net/problem/1205 |★★★     |
 
 ## 파일 및 폴더 구조
 ### 프로그래머스
