@@ -23,6 +23,7 @@
 |해시정렬|베스트셀러        |실버4|2023년 9월 8일 |https://www.acmicpc.net/problem/1302 |★         |
 |구현    |나이트투어        |실버4|2023년 9월 8일 |https://www.acmicpc.net/problem/1331 |★★★     |
 |수학    |어린왕자          |실버3|2023년 9월 12일 |https://www.acmicpc.net/problem/1004|★★       |
+|수학    |임스의 데일리 인증 스터디|실버3|2023년 9월 12일 |https://www.acmicpc.net/problem/29730|★★       |
 
 ## 파일 및 폴더 구조
 ### 프로그래머스
