@@ -24,6 +24,7 @@
 |구현    |나이트투어        |실버4|2023년 9월 8일 |https://www.acmicpc.net/problem/1331 |★★★     |
 |수학    |어린왕자          |실버3|2023년 9월 12일 |https://www.acmicpc.net/problem/1004|★★       |
 |수학    |임스의 데일리 인증 스터디|실버3|2023년 9월 12일 |https://www.acmicpc.net/problem/29730|★★       |
+|수학    |계단오르기|실버3|2023년 9월 19일 |https://www.acmicpc.net/problem/2579|★★★      |
 
 ## 파일 및 폴더 구조
 ### 프로그래머스
